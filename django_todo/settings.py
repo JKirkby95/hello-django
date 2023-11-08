@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-^cdjn4yyup5_a&n8lw(s!$+9o(d*eud-ya6w&$+co^00_!tgta
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '8000-jkirkby95-hello-django-xc0zk1zjkk.us2.codeanyapp.com'
+    '8000-jkirkby95-hello-django-xc0zk1zjkk.us2.codeanyapp.com',
+    '8000-jkirkby95-hello-django-bzroyibrf3.us2.codeanyapp.com'
 ]
 
 
