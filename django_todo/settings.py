@@ -32,7 +32,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '8000-jkirkby95-hello-django-xc0zk1zjkk.us2.codeanyapp.com',
-    '8000-jkirkby95-hello-django-bzroyibrf3.us2.codeanyapp.com'
+    '8000-jkirkby95-hello-django-bzroyibrf3.us2.codeanyapp.com',
+    'django-task-22671759c2d3.herokuapp.com'
 ]
 
 
